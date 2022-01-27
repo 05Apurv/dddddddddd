@@ -1,0 +1,803 @@
+List of Biomedical Equipments
+
+
+1. 3-D Surface Imaging
+2. Abrasive Blaster
+3. Accurate Pressure Meter
+4. Acid & Corrosive Storage
+5. Acne Heat Treatment Device
+6. Acne Treatment Light
+7. Air Abrasion Unit
+8. Air Cleaner
+9. Airborne Radon Bath
+10. Air-Purifying Respirator
+11. Alcohol Analyzer
+12. Alternating Pressure Bed
+13. Alternating Pressure Mattress
+14. Amalgamator
+15. Ambu Bags
+16. Ambulance
+17. Amino Acid Analyzer
+18. Anaerobic Chamber
+19. Anaerobic Incubator
+20. Analytical Scale
+21. Anesthesia Cart
+22. Anesthesia Machine
+23. Angioscope
+24. Ankle Massage Device
+25. Anoscope
+26. Apex Finder
+27. Apheresis Machine
+28. Apnea Alarm
+29. Apnea Monitor
+30. Argon Coagulator
+31. Arthroscope
+32. Arthroscopic Pump
+33. Artificial Heart Valve
+34. Aspiration Pump
+35. Aspirator, Emergency
+36. Aspirator, Surgical
+37. Aspirator, Ultrasonic
+38. Atomic Absorption
+39. Audiometer
+40. Audiometric Booth
+41. Auditory Function Screening
+42. Automated Blot Analysis
+43. Automated Coagulation Analyzer
+44. Automatic Chest Compressor
+45. Automatic Titrator
+46. Autosampler
+47. Barcode Reader
+48. Bed Alert System
+49. Bed Head System
+50. Bed, Pediatric
+51. Bench Power Supply
+52. Beta/Gamma Counter
+53. Bilirubin Meter
+54. Binocular Indirect Ophthalmoscope
+55. Bio Impedance Measurement
+56. Biochemistry Analyzer
+57. Biochemistry Analyzer, Automated
+58. Biofeedback System for Urinary
+59. Biological Agents Detection Systems
+60. Birthing Bath
+61. Birthing Bed
+62. Block Cutting System
+63. Blood Bank Instruments
+64. Blood Bank Refrigerator
+65. Blood Cell Counter
+66. Blood Centrifuge
+67. Blood Drawing Chair
+68. Blood Gas Analyzer
+69. Blood Gas Monitor
+70. Blood Grouping System
+71. Blood Mixer
+72. Blood POC Analyzer
+73. Blood Pressure Holter
+74. Blood Rocker/Mixer
+75. Blood Warmer
+76. Body Composition Scale
+77. Body Pressure Mapping System
+78. Body Scanning Machine
+79. Bone Densitometer, Dual Energy
+80. Bone Densitometer, Single Energy
+81. Bone Densitometer, Ultrasound
+82. Bone Growth Stimulator
+83. BPH Thermotherapy Treatment
+84. Brachytherapy System
+85. Breast Biopsy System
+86. Breathing Monitor
+87. Bronchoscope
+88. Burnout Oven
+89. Cabinets and Lockers
+90. CAD Mammography
+91. Camera Pill
+92. Camera System for Microscopy Imaging
+93. Capillary Electrophoresis System
+94. Cardiac Ablation System
+95. Cardiac Catheterization Monitor
+96. Cardiac Electrophysiologic Monitor
+97. Cardiac Mapping System
+98. Cardiac Output Computer
+99. Cardiac Stress Test
+100. Cardiology Information System
+101. Cardioplegia Safety System
+102. C-Arm
+103. C-Arm Table
+104. Cast Saw
+105. Cataract Surgical Unit
+106. Cath Lab
+107. Cautery Unit
+108. Cell Saver
+109. Cell Washing Centrifuge
+110. Cellulite Reduction
+111. Central Nursing Station
+112. Centrifugal Laboratory Analyzer
+113. Centrifuge
+114. Centrifuge System
+115. Centrifuge, Table Top
+116. Cerebral Oximeter
+117. Chart Recorder
+118. Chemistry Analyzer, Manual
+119. Chemistry Analyzers, Automated
+120. Chest X-ray
+121. Chiropractic Table
+122. Chiropractic Therapy
+123. Chiropractic Water Massage Table
+124. Choledochopscope
+125. Cholesterol Tester
+126. Cine Projector
+127. Clean Air System
+128. CO2 Monitor
+129. Cobalt Linear Accelerator
+130. Cold Chain Instruments
+131. Cold Therapy System
+132. Colon Hydrotherapy
+133. Colonoscope
+134. Colonoscope, Pediatric
+135. Colony Counter
+136. Colour Doppler
+137. Colposcope
+138. Compensating S/M Protecting Blocks
+139. Compression Fractures Management Device
+140. Computer Assisted Surgery
+141. Conductive Keratoplasty System   
+142. Confocal Microscope
+143. Contrast Injector
+144. Controller for Endoscopes
+145. Corneal Topography System
+146. Counter/Electronic Test Equipment
+147. CPAP
+148. CR System
+149. Cryogenic Gas Reservoir
+150. Cryogenic Storage System
+151. Cryostat
+152. Cryosurgical Unit
+153. CT Phantom
+154. CT Scanner
+155. Curtains and Screens
+156. Cylinder Cart
+157. Cystoscope
+158. Cytological Centrifuge
+159. Cytometer
+160. Data Management System, Anesthesia
+161. Daylight Film Processor
+162. Defibrillator Tester
+163. Densitometer, Laboratory, Scanning
+164. Dental Analgesia Unit
+165. Dental Articulator
+166. Dental Cart
+167. Dental Casting Machine
+168. Dental Chair
+169. Dental Clinic Handpiece
+170. Dental CR System
+171. Dental CT
+172. Dental Curing Light
+173. Dental Delivery System
+174. Dental Drill
+175. Dental Electro Surgery
+176. Dental Instruments
+177. Dental Laboratory Handpiece
+178. Dental Laboratory Porcelain Oven
+179. Dental Laser
+180. Dental Light
+181. Dental Microscope
+182. Dental Mixer/Shaker
+183. Dental Polisher
+184. Dental Restoration System
+185. Dental Surgical Irrigation System
+186. Dental Technology Tools
+187. Dental Unit
+188. Dental Washer/Disinfector
+189. Dental X-Ray
+190. Dental X-Ray Generator
+191. Dental X-Ray Scanner
+192. Dermatoscope
+193. Device for Alternative Medicine
+194. Device for Measuring ABI Index
+195. Devices for Color Perception Test
+196. Diagnosing and Drug Testing
+197. Diagnostic Products
+198. Dialysis Chair
+199. Diathermy Unit, Physical Therapy
+200. Digital Angiography
+201. Digital Camera Adaptor
+202. Digital Dental X-Ray
+203. Digital Mammography Unit
+204. Digital Spectrophotometer
+205. Digital Telescope
+206. Digital Video Colposcopy
+207. Digital Voltmeter (DVM)
+208. Dry Heat Sterilizer
+209. Duodenoscope
+210. DVD & VCR
+211. Dynamic Stander
+212. Ear Thermometer
+213. ECG
+214. ECG Holter
+215. ECG Monitors
+216. ECG Papers & Electrodes
+217. ECG R-Wave Trigger
+218. ECG Scanner
+219. ECG Tester
+220. EECP
+221. EEG Monitor
+222. EEG Unit
+223. Electrical Generator
+224. Electrical Safety Analyzer
+225. Electroconvulsive Therapy Unit
+226. Electrohydraulic Lithotripter
+227. Electrolyte Analyzer
+228. Electron Beam Tomography
+229. Electron Microscope
+230. Electronic Laboratory Oscilloscope
+231. Electrophoresis System
+232. Electrosurgical Unit
+233. ELISA Analyzer
+234. Emergency Cart
+235. EMG & Evoked Potential Responsive Unit
+236. Endoscope Cleaner
+237. Endoscope Lens Cleaner
+238. Endoscope Light Source
+239. Endoscope Tester
+240. Endoscopy Cart
+241. Endovenous Occlusion System
+242. Energetic Therapy Device
+243. ENG Unit
+244. ENT Cabinet
+245. Enteroscope
+246. Environmental Test Equipment
+247. Erectile Dysfunction Analyzer
+248. Ergometer
+249. Esophageal Motility Analyzer
+250. ESR Measurement Device
+251. Ethylene Oxide Sterilizer
+252. Exam Light
+253. Exercise Device
+254. External Automated Defibrillator
+255. External Defibrillator
+256. External Pacemaker
+257. Extracorporeal Lithotripter
+258. Eye Magnet
+259. Feeding Pump
+260. Fermentor
+261. Fetal Monitor
+262. Film Chemical Mixer
+263. Film Duplicator
+264. Film ID System
+265. Film Processor
+266. Film Processor, Cine
+267. Film Scanner
+268. Film Storage
+269. Flexible Ureteroscope
+270. Fluorometer
+271. Foam Cutter, Radiotherapy
+272. Foetal Doppler
+273. Foetal Monitors
+274. Freeze Dryer
+275. FTIR Spectrometer
+276. Fully Auto Analyzer
+277. Gamma Camera
+278. Gamma Camera, Mobile
+279. Gamma Camera, Scanning
+280. Gamma Knife
+281. Gamma Probe
+282. Gas Liquid Chromatograph
+283. Gas Monitor, Atmospheric
+284. Gastro Esophageal Monitoring
+285. Gastrointestinal Aspirator Pump
+286. Gastroscope
+287. Gene Work Station
+288. Genetic Analysis System
+289. Glucose Monitor
+290. Glycohemoglobin Analyzer
+291. Gurney
+292. Gynecology Chair
+293. Gynecology Endoscope
+294. Hair Removal Laser
+295. Halogen Light Source
+296. Halogenated Anesthetics Analyzer
+297. Hand Dynamometer
+298. Harmonic Scalpel
+299. Hearing Aid
+300. Heart-Lung Machine
+301. Heat and Refrigeration System
+302. Height & Weighing Scales
+303. Height Rod
+304. Helium Leak Detector
+305. Hematocrit Centrifuge
+306. Hematology Analyzer
+307. Hemodialysis Machine
+308. High Frequency Chest-Wall Oscillation
+309. High Power Laser Therapy
+310. High Resolution Medical Video Monitor
+311. Hospital Beds
+312. Hospital Beds, Wheel Chairs
+313. Hospital Information System
+314. HPLC
+315. HPLC Subsystems, Accessories and Parts
+316. Human Anatomy Model
+317. Hydro Collator
+318. Hydrocollator
+319. Hydrogen Breath Test
+320. Hyperbaric Chamber
+321. Hyperthermia Therapy Device
+322. Hypothermia Unit
+323. Hysteroscope
+324. Ice Maker & Storage
+325. ICP Monitor
+326. Image Intensifier
+327. Imaging Radiation Protection
+328. Immunoassay Analyzer
+329. Immunoassay Analyzer, Enzyme
+330. Implantable Defibrillator
+331. Infant Baby Care Instruments
+332. Infant Incubator
+333. Infant Incubator
+334. Infant Scale
+335. Infant Warmer
+336. Information System, Dermatology
+337. Information System, Laboratory
+338. Information System, Radiology
+339. Infrared Generator
+340. Infusion Pump
+341. Injector for High Viscosity Liquids
+342. Instrument Cart
+343. Insufflator
+344. Insulin Pump
+345. Interferential Therapy
+346. Intermittent Compression Unity
+347. Intra Oral Camera
+348. Intra Oral Video Camera
+349. Intra Oral X-Ray Pad
+350. Intra Oral X-ray System
+351. Intra Vascular Ultrasound (IVUS)
+352. Intra-Aortic Balloon Pump
+353. Intracorporeal Lithotripter
+354. Intubation Endoscope
+355. Irrigators Set & Accessories
+356. Isolation Transformer
+357. IV Pole
+358. Keratometer
+359. Lab Incubator
+360. Laboratory Dispenser
+361. Laboratory Glucose Analyzer
+362. Laboratory Hood
+363. Laboratory Hood, Ductless
+364. Laboratory Incubator
+365. Laboratory Incubator, Thermocycling
+366. Laboratory Information System
+367. Laboratory Oven
+368. Laboratory Product
+369. Laboratory Pump
+370. Laboratory Quality Assurance Equipment
+371. Laboratory Safety Cabinet
+372. Laboratory Scale
+373. Laboratory Shaker
+374. Laboratory View-box
+375. Laboratory Washer
+376. Laparoscope
+377. Laparoscopic Trainer
+378. Laryngeal Mask
+379. Laryngoscope
+380. Laryngoscopes
+381. Laser – Erbium: YAG
+382. Laser Blood Flow Detector
+383. Laser For Glaucoma Treatment
+384. Laser Hair Therapy
+385. Laser Imager
+386. Laser Lithotripter
+387. Laser Micro Dissector
+388. Laser Trabeculoplasty
+389. Laser-Argon
+390. Laser-CO2
+391. Laser-Diode
+392. Laser-Excimer
+393. Laser-Nd : YAG
+394. Laser-YAG
+395. Lecturescope
+396. Lens Preparation Equipment
+397. Lensometer
+398. Light Source
+399. Limb Support
+400. Linear Accelerator
+401. Lipo Reduction Equipment
+402. Liquid Chromatography
+403. Liquids Conductivity Meter
+404. Low Level Laser Therapy
+405. Luminometers for Measurement
+406. Lung Function Analyzer
+407. Magnetic Cell Separator
+408. Magnetic Stimulator
+409. Magnifying Loupes
+410. Mammographic Phantom
+411. Mammography Unit
+412. Manual Exam Table
+413. Manual Wheelchair
+414. Mass Spectrometer
+415. Material Management Information System
+416. Maternal Monitors
+417. Mechanical Pulse Stimulator
+418. Medical Air Compressor/Dehydrator
+419. Medical Disposables
+420. Medical Gas Cylinder
+421. Medical Gas Monitor
+422. Medical Thermal Imaging Cameras
+423. Medical Trailer
+424. Medical Video Monitor
+425. Medical Waste System
+426. Medication Management System
+427. Medicine Cart
+428. Mesotherapy Injector
+429. Metabolic Analyzer
+430. Microbiological Culture Analyzer
+431. MicroCentrifuge
+432. Microdermabrader
+433. Micromanipulator
+434. Microplate Filter
+435. Microplate Handler
+436. Microplate Reader
+437. Microplate Sealer
+438. Microplate Washer
+439. Microscope
+440. Microscope, Operating
+441. Microscopes
+442. Microscopy Sample Preparation
+443. Microtome
+444. Microtome Knife Sharpener
+445. Miscellaneous Products
+446. Mist tent
+447. Mobile Cath Lab
+448. Mobile CT
+449. Mobile Mammography
+450. Mobile MRI
+451. Mobile PET/CT
+452. Mobile X-Ray
+453. Modular Building
+454. Modular Liquid Handler
+455. Motorized  Wheelchair
+456. Motorized X-Ray View-Box
+457. MRI
+458. MRI Coils
+459. MRI Compatible Equipment
+460. Multi Image Camera
+461. Multifunction Tester
+462. Multipara Monitors
+463. Muscle Stimulators
+464. Nasopharyngoscope
+465. Nebulizer
+466. Needle Free Injector
+467. Negative Ion Therapy Unit
+468. Neonatal Resuscitation Unit
+469. Nephelometer
+470. Nephroscope
+471. Nerve Conduction Monitor
+472. Nerve Locator
+473. Nerve Locator for Prostate Operations
+474. Nerve Stimulator
+475. Neuroendoscope
+476. Neuromuscular Electrical Stimulator
+477. Neuromuscular Performance Measurement
+478. NIBP Simulator
+479. Nitrogen Generator
+480. NMR Spectroscopy
+481. Nuclear Computer
+482. Nuclear Medicine Phantom 
+483. Nurse Call System
+484. O.T Beds & Tables
+485. O.T Examination Light
+486. Oculoplethysmograph 
+487. Operating Room Monitor
+488. Operating Table
+489. Operation Theatre Fumigator
+490. Ophthalmic Diathermy Unit
+491. Ophthalmic Instrument Stand
+492. Ophthalmic Instruments
+493. Ophthalmic Laser
+494. Ophthalmic Laser-Argon
+495. Ophthalmic Lenses
+496. Ophthalmic Retinal Laser
+497. Ophthalmic Ultrasound
+498. Ophthalmic Viewer
+499. Ophthalmology Chair
+500. Ophthalmoscope
+501. Optical Biometer
+502. Optical Coherence Tomography
+503. Optical Molecular Imager
+504. Orthopedic Plates and Screws Set
+505. Orthopedic Shock Wave System
+506. Orthopedic Table
+507. Osmometer
+508. Otolaryngology Chair
+509. Otoscope
+510. Oximeter
+511. Oxygen Concentrator
+512. Oxygen Concentrators
+513. Oxygen Mixer
+514. Oxygen Monitor
+515. Oxygen Therapy System
+516. Oxygenator
+517. Pace Maker
+518. Pacemaker
+519. Pacemaker Tester
+520. PACS
+521. Pain Control System
+522. Pain Relief Cooling Device
+523. Panoramic Dental X-Ray
+524. Panoramic Dental X-Ray, Digital
+525. Paraffin Bath
+526. Paraffin Wax Bath
+527. Particle Counter
+528. Passive Motion Exerciser, Limbs
+529. Patient and Asset Tracking System
+530. Patient Hoist
+531. Patient Monitor
+532. Patient Monitor Module
+533. Patient Scale
+534. Patient Warmer
+535. PCR
+536. Pediatric Immobilizer/Positioner
+537. Pediatric Retinal Imaging
+538. Pen Injector
+539. Perimeter
+540. Peritoneal Dialysis Unit
+541. PET Scanner
+542. PET/CT
+543. pH Meter
+544. Photo Colorimeter
+545. Photo Dynamic Therapy
+546. Photo Therapy System for Psoriasis
+547. Photocoagulator
+548. Phototherapy Radiometer
+549. Phototherapy Unit
+550. Pipettes
+551. Plasma Extractor
+552. Plasma Freezer
+553. Plasma Skin Rejuvenation
+554. Plasma Sterilizer
+555. Plaster Dispenser
+556. Platelet Aggregation Analyzer
+557. POC Coagulation Analyzer
+558. Polarimeter for Near IR
+559. Polarograph
+560. Polysomnography
+561. Portable ECG
+562. Portable Oxygen Unit
+563. Potential Acuity Meter
+564. Power Exam Table
+565. Powered Wheelchair
+566. Practice Management System
+567. Printer, Thermal
+568. Prone Positioner
+569. Prostate Biopsy Guidance System
+570. Prostate Treatment Laser
+571. Prostate Treatment System
+572. Prosthesis, Joint, Hip
+573. Protein Analyzer
+574. Protein Purification System
+575. Protein Synthesizer
+576. Pulmonary Stress Test
+577. Pulse Oximeter
+578. Pulse Oximeter
+579. Pulse Stimulator
+580. Pump IV
+581. Pupilometer
+582. Rad Room, Analog
+583. Rad Room, Digital
+584. Rad/Fluoro Room, Flat Panel
+585. Rad/Fluoro Room, Image Intensifier
+586. Radiation Counter
+587. Radiation Detector
+588. Radio aerosol Delivery kit
+589. Radiographic Phantom
+590. Radiographic Photospot Camera
+591. Radioisotope Calibrator
+592. Radiological Systems
+593. Radiology Work Station
+594. Radiotherapy CT Stimulator
+595. Radiotherapy Planning Accessories
+596. Radiotherapy Planning System
+597. Radiotherapy Stimulator
+598. Recovery Chair
+599. Refractometer, Laboratory
+600. Refractometer, Ophthalmologic
+601. Rehabilitation Aids
+602. Renal Endoscope
+603. Respiration Monitor
+604. Respiratory Volume Calibration Syringe
+605. Resuscitators
+606. Resuscitators and Emergency Kits
+607. Retinal Camera
+608. Retinal Digital Imaging System
+609. Retinal Film Camera
+610. Retinoscope
+611. Retractor System for Surgery
+612. Revascularization Laser
+613. RF Coagulating for Small Vessels
+614. Rhinoscope
+615. Rinsing Device for Endoscopic
+616. Robotic Surgical System
+617. Roller Production Apparatus
+618. Safety Eyewear
+619. Scale, Chair
+620. Scan Paper Rolls & Gel
+621. Scanning Electron Microscope
+622. Scanning Laser Polarimetry
+623. Semen Analyzer
+624. Sharp Waste Handling
+625. Shortwave & Laser Therapy
+626. Sigmoidoscope
+627. Simple Bone Densitometer
+628. Single Channel ECG
+629. Skin Graft Mesher
+630. Slide Stainers, Hematology
+631. Slide Stainers, Histology
+632. Slit Lamp
+633. SLT Laser
+634. Software for Ultrasonic Imaging
+635. Somnoplasty Device
+636. Special Physical Treatment
+637. SPECT/CT
+638. Spectrophotometer
+639. Spectrum Analyzer
+640. Specular Microscope
+641. Sphygmomanometer
+642. Spinal Decompression Table
+643. Spinal Rehabilitation Equipment
+644. Spine Analyzer
+645. Spirometer
+646. Staff Infection Control
+647. Standing Frame
+648. Steam Sterilizer
+649. Stereotactic Head Frame
+650. Stereotactic Radiotherapy System
+651. Sterilization Box
+652. Sterilizers & Autoclaves
+653. Stethoscope
+654. Stirrer
+655. Stools and Chairs
+656. Stray Energy Monitor
+657. Stress Test System
+658. Stretcher
+659. Suction Machines
+660. Suction Regulator
+661. Supine Stander
+662. Surgical Blades
+663. Surgical Camera
+664. Surgical Diathermy
+665. Surgical Hallow Ware
+666. Surgical Head Light
+667. Surgical Helmet
+668. Surgical Instruments
+669. Surgical Light
+670. Surgical Power Tool
+671. Surgical Rubber Products
+672. Surgical Sealer
+673. Surgical Sink
+674. Surgical Smoke Evacuation System
+675. Surgical Stapler
+676. Suture Needles
+677. Sweat Tester
+678. Synoptophore
+679. Syringe & Infusion Pump
+680. Syringe Pump
+681. Table Top Steam Sterilizer
+682. Tables and Stands
+683. Tachymeter
+684. Tattoo Removal Laser
+685. Teeth Color Reader
+686. Teeth Whitening System
+687. Teeth Whitening System
+688. Telemedicine System
+689. Telemetry Monitor
+690. Telescope Warmer
+691. Temperature Controller
+692. Temperature Monitor
+693. Test Lung
+694. Therapeutic Intravascular Ultrasound
+695. Thermal Cautery
+696. Thermo Therapy System
+697. Thermographic Imager
+698. Thermometer
+699. Thermostatic Bath/Shaker
+700. Thermostatic Water Cooler
+701. Thrombolysis System
+702. Thyroid Uptake System
+703. Tilting Treatment Table
+704. Tissue Homogenizer
+705. Tissue Processor
+706. Tissue Repair System
+707. Tomographic X-ray
+708. Tonometer
+709. Total Body X-ray
+710. Total Organic Carbon Analyzer
+711. Tourniquet
+712. Traction Unit
+713. Training Manikin
+714. Trans scleral Photocoagulation System
+715. Transcranial Magnetic Stimulator
+716. Transport Ventilator
+717. Treadmill
+718. Trial Lens Case
+719. Turbidity Meter
+720. Tympanometer
+721. Ultracentrifuge
+722. Ultramiller
+723. Ultrasonic Blood Flow Detector
+724. Ultrasonic Cardiac Ablation System
+725. Ultrasonic Cleaning System
+726. Ultrasonic Fetal Monitor
+727. Ultrasonic Lithotripter
+728. Ultrasonic probes for PC
+729. Ultrasonic Therapy
+730. Ultrasound and Electrical Stimulation
+731. Ultrasound Gel Warmer
+732. Ultrasound Meter
+733. Ultrasound Therapy System
+734. Ultrasound Treatment Equipment
+735. Ultrasound, Cardiac
+736. Ultrasound, Diagnostic
+737. Ultrasound, Endoscopic
+738. Ultrasound, Portable
+739. Ultrasound, Training
+740. Ultrasound, Veterinary
+741. Ultraviolet Lamp
+742. Uninterruptible Power Supply
+743. Upright Multi-Position MRI
+744. Urethroscope
+745. Urine Analyzer
+746. Urodynamic Measurement System
+747. Urological Chair
+748. Urological Imaging Table
+749. Urological Surgical Instruments
+750. Urological X-ray
+751. Uterine Aspirator
+752. Uterine Balloon Therapy System
+753. UV Crosslinker
+754. UV Radiation System for Treatment
+755. Vacuum Concentrator
+756. Vacuum Extractors
+757. Vacuum Pump
+758. Vaporizer for Anesthetics
+759. Vascular Laboratory
+760. Vascular Lesion Removal Laser
+761. Vein Access Device
+762. Ventilator Analyzer
+763. Ventilator System
+764. Ventilator, Intensive Care
+765. Ventilator, Pediatric
+766. Ventilator, Portable
+767. Ventricular Assist Device
+768. Vessel Sealer
+769. Veterinary Endoscope, Flexible
+770. Veterinary Endoscope, Rigid
+771. Vibrating Machines & Chairs
+772. Vibrating Massage Device
+773. Vibration Microtome
+774. Video Colposcope
+775. Video Conferencing Equipment
+776. Video Endoscopy
+777. Video/Picture Management System
+778. Viscometer
+779. Vision Screener
+780. Visual Function Analyzer
+781. Vitrectomy System
+782. Voice Recognition Control Meter
+783. Voice Recorder
+784. Walker
+785. Warming Cabinet
+786. Washer/Disinfector
+787. Water Decontamination System
+788. Water Purification System
+789. Whirlpool / Bath
+790. Wound Management
+791. Xenon System
+792. X-Ray Cassette
+793. X-ray Cassette Storage
+794. X-ray Generator
+795. X-Ray Quality Assurance Equipment
+796. X-ray System Control Unit
+797. X-Ray Testing Equipment
+798. X-Ray Tube
+799. X-Ray View-Box
+800. YAG Laser Cataract Surgery
